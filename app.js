@@ -62,6 +62,7 @@ function sortearAmigo() {
     }else{
                 //Mostramos mensaje en caso de que no ingrese un nombre o un texto valido
                 alert("Para sortear, debe ingresar nombres.");
+                location.reload();
     }
 }
 
