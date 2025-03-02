@@ -35,7 +35,7 @@ Este proyecto consiste en un juego simple que permite generar un nombre de una l
 1. Clona el repositorio a tu máquina local:
 
    ```bash
-   [git clone https://github.com/CristianMedina123/Challenge-Amigo-Secreto.git]
+   [https://github.com/CristianMedina123/Challenge-Amigo-Secreto.git]
 ## 🙏 Agradecimientos
 
 - **Alura LATAM**: Gracias por los cursos que me ayudaron a aprender los fundamentos de la programación web, sin ellos este proyecto no sería posible.
